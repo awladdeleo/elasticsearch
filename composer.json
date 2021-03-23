@@ -1,5 +1,5 @@
 {
-  "name": "elasticquent-leo/elasticquent-leo",
+  "name": "awladdeleo/elasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
